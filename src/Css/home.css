@@ -1,0 +1,114 @@
+.abc
+{
+    padding:30px;
+    font-size: 45px;
+    color: white;
+    
+}
+
+.a:hover {
+  background-color:blue;
+  transform: scale(1.08);
+}
+.b:hover {
+  background-color:blue;
+  transform: scale(1.08);
+}
+.c:hover {
+  background-color:blue;
+  transform: scale(1.08);
+}
+.hey{
+  padding:5px;
+  font-size: 45px;
+  color: white;
+}
+.ishant
+{
+  border-radius: 40px;
+  height:250px;
+  width:400px;
+}
+figcaption
+{
+  color:whitesmoke;
+}
+
+.hey {
+    padding:20px;
+    font-size: 20px;
+    color: whitesmoke;
+}
+.akb{
+    padding:1000px;
+    background-color: whitesmoke;
+}
+.akbar
+{
+    font-family: Harlow Solid;
+}
+.abc
+{
+    font-family: Britannic;
+}
+td{
+    font-size:30px;
+    color:black;
+}
+caption{
+    
+    color: white;
+    font-size:20px;
+}
+table,td, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  th{
+      padding:1px;
+      font-size:50px;
+      color:black;
+      
+      
+  }
+  .a  {
+    background-color: rgb(72, 93, 209); /* Green */
+    border: none;
+    /* color: rgb(0, 110, 255); */
+    padding: 15px 32px;
+    text-align: center;
+    color:black;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: High Tower Text;
+  }
+  .b {
+    background-color:rgb(72, 93, 209); /* Green */
+    border: none;
+    /* color: white; */
+    color:black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: High Tower Text;
+  }
+  .c {
+    background-color: rgb(72, 93, 209); /* Green */
+    border: none;
+    color:black;
+    /* color: white; */
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: High Tower Text;
+  }
+  .ss
+  {
+    height: 1000px;
+    background-image: linear-gradient(to right, black,grey)
+  }

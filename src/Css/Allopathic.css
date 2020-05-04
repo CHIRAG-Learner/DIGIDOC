@@ -1,0 +1,65 @@
+.trim 
+{
+    color:black;
+    font-family:britannic;
+    font-size: 80px;
+    padding:25px;
+    background-color:white;
+  top: 40px;
+  width: 100%;
+  height:50px;
+  font-family: Britannic;
+ font-size:80px;
+ padding:40px;
+ font-style: italic;
+}
+.tri{
+    background-image: linear-gradient(to right, black,grey);
+    height:650px;
+}
+.str
+{
+    color:white;
+    font-size: 27px;
+}
+.sid
+{
+    padding:0px 100px 100px 100px;
+    font-family: britannic;
+    color:green;
+}
+
+img {
+    border-radius: 50%;
+  }
+  
+  .sanchit
+  {
+      color:black;
+  }
+
+  .ket
+  {
+        width: "1000px";
+        height: "550px";
+        background-image: url("/Components/allopathic.jpg");
+  }
+  #customs td:hover {background-color: rgb(218, 224, 231);}
+#customs td{
+    text-align: center;
+    padding: 45px;
+}
+  #customs
+  {
+      background-color: white;
+  }
+  .kar:hover{
+      background-color: yellow;
+      height:30px;
+      width:170px;
+  }
+  .kar:hover{
+      color:black;
+      /* text-align:center; */
+
+  }

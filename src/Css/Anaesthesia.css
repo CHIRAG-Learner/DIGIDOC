@@ -1,0 +1,157 @@
+.skol
+{
+ width:800px;
+ height:700px;
+ border-style: inset;
+ margin: auto;
+ z-index: 0; 
+ transform: scale(1);
+ flex-wrap: wrap;
+}
+
+.kok
+{
+    font-size: 80px;
+    font-family: britannic;
+    color:orange;
+}
+
+#dd
+{
+    font-size: 19px;
+    color:rgb(24, 23, 23)
+}
+.lame
+{
+  font-size: 16px;
+  color:rgba(0, 0, 0, 0.74);
+  /* width:250px; */
+  float:right;
+}
+.karam
+{
+    font-size: 18px;
+    color:black;
+    margin-left: auto;
+  margin-right: auto;
+    width:250px;
+}
+
+.kar
+{
+    font-size: 18px;
+    color:black;
+    /* width:250px; */
+    /* text-align:left; */
+    float: left;
+}
+
+.silk
+{
+    background-color: orange;
+    font-size: 20px;
+    color:black;
+    text-align: left;
+}
+
+.si{
+    text-align: left;
+}
+    .container
+    {
+        display: grid;
+        grid-template-columns: auto auto auto;
+        grid-gap: 10px;
+        padding: 10px;
+    }
+    .tooltip {
+      position: relative;
+      display: inline-block;
+      border-bottom: 1px dotted black;
+    }
+    
+    .tooltip .tooltiptext {
+      visibility: hidden;
+      width: 150px;
+      background-color: white;
+      color: black;
+      text-align: center;
+      border-radius: 6px;
+      padding: 5px 0;
+      display: block;
+      /* Position the tooltip */
+      position: absolute;
+      z-index: 1;
+      top:20px;
+      left: -20px;
+      font-size:15px;
+    }
+    
+    .tooltip:hover .tooltiptext {
+      visibility: visible;
+      display: block;
+    }
+    .tooltip .tooltext {
+      visibility: hidden;
+      width: 80px;
+      background-color: white;
+      color: black;
+      text-align: center;
+      border-radius: 6px;
+      padding: 5px 0;
+      display: block;
+      /* Position the tooltip */
+      position: absolute;
+      z-index: 1;
+      top:20px;
+      left: 15%;
+      font-size:15px;
+    }
+    .tooltip:hover .tooltext {
+      visibility: visible;
+      display: block;
+    }
+.ka
+{
+    border-style: groove;
+    padding: 5px;
+    transform: scale(1);
+    height: 400px;
+    width:400px;
+
+}
+
+/* .skol:hover {
+    transform: scale(1.2);
+  } */
+
+.ka:hover {
+  background-color: burlywood;
+  transform: scale(1.08);
+}
+
+#cust ,#cust tr{
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 70%;
+    border: 0px solid black;
+    border-color: white;
+  }
+  
+  #cust td, #cust th {
+    padding: 8px;
+    border: 0px solid black;
+  }
+  
+  #cust 
+  {
+    border: 0px solid black;
+  }
+
+  #cust th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+  }

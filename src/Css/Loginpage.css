@@ -1,0 +1,39 @@
+.pra {
+    display: block;
+    width: 10%;
+    border: none;
+    background-color: yellow;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+  }
+ 
+  .shah fieldset{
+      width:700px;
+      height:600px;
+  }
+  select{
+      background-color: white;
+      color:black;
+  }
+ 
+  .cos
+  {
+    background-color: green;
+    width:5px;
+    height: 40px;  
+    box-sizing: border-box;
+  }
+
+  textarea {
+    width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid rgb(163, 157, 157);
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    resize: none;
+  }
